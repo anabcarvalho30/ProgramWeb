@@ -1,2 +1,6 @@
 # ProgramWeb
 Uso de Html e estilização com bootstrap
+- Componente Nav sendo utilizado para movimentar a o usário até o autor da página ou fazer alguma indicação para o blog fictício;
+- Em cada coluna, existe um Card contendo uma imagem, um título, conteúdo e um botão;
+- Abaixo das colunas, um componente Jumbotron com uma informação da autora e possibilidade de envio de e-mail funcional;
+- Adição de um rodapé com fundo cinza o logotipo do Bootstrap e a mensagem "Feito com Bootstrap".
