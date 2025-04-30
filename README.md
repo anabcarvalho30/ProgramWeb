@@ -9,3 +9,8 @@ Uso de Html e estilização com bootstrap
 - Criação do logotipo original utilizando Figma
 - Eu realmente gosto muito dos subgêneros de filmes de terror
 - Pretendo continuar atualizando e melhorando a página, adicionando textos autorais, mesmo que por diversão
+
+
+
+https://github.com/user-attachments/assets/3d31db48-12f6-43ca-8e31-587b47d0195e
+
